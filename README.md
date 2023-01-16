@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Subhashis360
-- 👀 I’m interested in Codeing..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking someone to collaborate with me...
-- 📫 How to reach me send msg in insta - @subhashis_op
+<h1> Subhashis360 :</h1>
+  <hr>
+<li> 👋 Hi, I’m Subhashis </li>
+<li> 👀 I’m a Programmer,Ethical Hacker,Web Pentestor,Bug Hunter.. </li>
+<li> 🌱 I’m a student & currently learning Many more.. </li>
 
-<!---
-Subhashis360/Subhashis360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Skills & Experience :</h1>
+<hr>
+<li> 💻 Shell Script / C / C++ /  Webcoding ( HTML, CSS, JavaScript , PHP, MySQL , Webshocket ) </li>
+<li> 💥 Linux OS / Windows OS / Kali OS / Parrot OS / Ubantu etc.. </li>
+<li> 🔥 Metasploit / Nmap / Wpscan / Burp-suite / Wireshark etc.. </li>
+
+<hr>
+
+![Subhashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhashis360&show_icons=true&theme=radical)
+
+<hr>
+
+<h1> Contact / My Social Media Links : </h1>
+
+- [Instagram](https://www.instagram.com/subhashis_op/)
+- [Twitter](https://twitter.com/smtechyt2)
+- [Telegram](https://telegram.dog/Smtechytbot)
+- [Facebook](https://www.facebook.com/profile.php?id=100008091315036)
