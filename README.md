@@ -12,10 +12,6 @@
 
 <hr>
 
-![Subhashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhashis360&show_icons=true&theme=radical)
-
-<hr>
-
 <h1> Contact / My Social Media Links : </h1>
 
 - [Instagram](https://www.instagram.com/subhashis_op/)
