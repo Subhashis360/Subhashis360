@@ -1,9 +1,12 @@
+<div align="left">
+  <b><pwn>🔴 🟡 🟢</pwn></b>
+</div>
 <div align="center">
-<h1>👨‍💻 Subhashis360 ✨</h1>
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+👨‍💻Hey ,+ $Subhashis360 ✨+ is here...+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
 </div>
 
 <div align="center">
-<h2>Hey there! I'm Subhashis, a passionate Programmer, CTF player, Ethical Hacker, Web Pentester, and Bug Hunter</h2>
+<h2> I'm Subhashis, a Student, passionate Programmer, CTF player, Ethical Hacker, Web Pentester, and Bug Hunter, Web Dev etc. </h2>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subhashis360&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -30,7 +33,9 @@
   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" height="30" alt="Java logo"  />
 </div>
 </div>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subhashis360&theme=radical&no-frame=true&no-bg=false&margin-w=4" height="150" alt="stats graph" />
+</div>
 <hr>
 <h1>About Me : </h1>
 <li> 👋 Hi, I’m Subhashis </li>
