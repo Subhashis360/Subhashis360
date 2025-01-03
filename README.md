@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<h2> I'm Subhashis, a Student, passionate Programmer, CTF player, Ethical Hacker, Web Pentester, and Bug Hunter, Web Dev etc. </h2>
+<h2> I'm Subhashis, a Computer Science Student, passionate Programmer, CTF player, Ethical Hacker, Web Pentester, and Bug Hunter, Web Dev etc. </h2>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subhashis360&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
